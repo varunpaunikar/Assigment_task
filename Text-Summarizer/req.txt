@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+py_pdf_parser
+pyyaml
+langdetect
+fitz
+groq
+pymupdf
+python-multipart
